@@ -20,6 +20,7 @@ __My strengths:__
 * Personal qualities: self-motivation, responsibility and clarity in the performance of functional duties, assigned tasks; focus on continuous development and improvement of professional skills, scrupulousness, willingness to invest personally in training, ambition.
 
 ### Code examples
+not yet
 
 ### Courses :
 
