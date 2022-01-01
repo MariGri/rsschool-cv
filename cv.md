@@ -22,8 +22,11 @@ __My strengths:__
 ### Code examples
 
 ### Courses :
+
 HTML https://ru.code-basics.com/languages/html 
+
 CSS https://ru.code-basics.com/languages/css 
+
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ### Languages
